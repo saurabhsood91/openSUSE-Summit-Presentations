@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2013.12.8)  15 OCT 2014 20:06
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2013.12.8)  15 OCT 2014 23:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -865,98 +865,98 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 
 ] [9
 
-] <qt-mod.png, id=335, 481.04718pt x 176.15813pt>
-File: qt-mod.png Graphic file (type png)
+] [10
 
-<use qt-mod.png>
-Package pdftex.def Info: qt-mod.png used on input line 46.
+] [11
+
+]
+<qt-mod.png, id=383, 481.04718pt x 176.15813pt>
+File: qt-mod.png Graphic file (type png)
+ <use qt-mod.png>
+Package pdftex.def Info: qt-mod.png used on input line 55.
 (pdftex.def)             Requested size: 284.52756pt x 104.1958pt.
- [10
+ [12
 
  <./qt-mod.png>]
 File: qt-mod.png Graphic file (type png)
  <use qt-mod.png>
-Package pdftex.def Info: qt-mod.png used on input line 46.
+Package pdftex.def Info: qt-mod.png used on input line 55.
 (pdftex.def)             Requested size: 284.52756pt x 104.1958pt.
- [11
+ [13
 
-]
-<macros.png, id=392, 490.08093pt x 175.40532pt>
+] <macros.png, id=440, 490.08093pt x 175.40532pt>
 File: macros.png Graphic file (type png)
- <use macros.png>
-Package pdftex.def Info: macros.png used on input line 54.
+
+<use macros.png>
+Package pdftex.def Info: macros.png used on input line 63.
 (pdftex.def)             Requested size: 284.52756pt x 101.83685pt.
- [12
+ [14
 
  <./macros.png>]
 File: macros.png Graphic file (type png)
  <use macros.png>
-Package pdftex.def Info: macros.png used on input line 54.
+Package pdftex.def Info: macros.png used on input line 63.
 (pdftex.def)             Requested size: 284.52756pt x 101.83685pt.
- [13
-
-] [14
-
-] [15
+ [15
 
 ] [16
 
 ] [17
 
+] [18
+
 ]
-<helloworld.png, id=555, 329.73187pt x 207.77625pt>
+<helloworld.png, id=576, 329.73187pt x 207.77625pt>
 File: helloworld.png Graphic file (type png)
  <use helloworld.png>
-Package pdftex.def Info: helloworld.png used on input line 78.
+Package pdftex.def Info: helloworld.png used on input line 87.
 (pdftex.def)             Requested size: 284.52756pt x 179.29596pt.
 
-[18
+[19
 
- <./helloworld.png>] <helloworld1.png, id=585, 329.73187pt x 207.77625pt>
+ <./helloworld.png>] <helloworld1.png, id=606, 329.73187pt x 207.77625pt>
 File: helloworld1.png Graphic file (type png)
 
 <use helloworld1.png>
-Package pdftex.def Info: helloworld1.png used on input line 83.
+Package pdftex.def Info: helloworld1.png used on input line 92.
 (pdftex.def)             Requested size: 284.52756pt x 179.29596pt.
- [19
+ [20
 
  <./helloworld1.png>]
-<helloworld2.png, id=614, 329.73187pt x 207.77625pt>
+<helloworld2.png, id=634, 329.73187pt x 207.77625pt>
 File: helloworld2.png Graphic file (type png)
  <use helloworld2.png>
-Package pdftex.def Info: helloworld2.png used on input line 88.
+Package pdftex.def Info: helloworld2.png used on input line 96.
 (pdftex.def)             Requested size: 284.52756pt x 179.29596pt.
 
-[20
+[21
 
- <./helloworld2.png>] <helloworld3.png, id=642, 329.73187pt x 207.77625pt>
+ <./helloworld2.png>] <helloworld3.png, id=662, 329.73187pt x 207.77625pt>
 File: helloworld3.png Graphic file (type png)
 
 <use helloworld3.png>
-Package pdftex.def Info: helloworld3.png used on input line 93.
+Package pdftex.def Info: helloworld3.png used on input line 100.
 (pdftex.def)             Requested size: 284.52756pt x 179.29596pt.
- [21
+ [22
 
  <./helloworld3.png>]
-<helloworld4.png, id=670, 329.73187pt x 207.77625pt>
+<helloworld4.png, id=691, 329.73187pt x 207.77625pt>
 File: helloworld4.png Graphic file (type png)
  <use helloworld4.png>
-Package pdftex.def Info: helloworld4.png used on input line 98.
+Package pdftex.def Info: helloworld4.png used on input line 104.
 (pdftex.def)             Requested size: 284.52756pt x 179.29596pt.
 
-[22
+[23
 
- <./helloworld4.png>] <helloworld5.png, id=699, 329.73187pt x 207.77625pt>
+ <./helloworld4.png>] <helloworld5.png, id=718, 329.73187pt x 207.77625pt>
 File: helloworld5.png Graphic file (type png)
 
 <use helloworld5.png>
-Package pdftex.def Info: helloworld5.png used on input line 103.
+Package pdftex.def Info: helloworld5.png used on input line 109.
 (pdftex.def)             Requested size: 284.52756pt x 179.29596pt.
- [23
+ [24
 
- <./helloworld5.png>] [24
-
-] [25
+ <./helloworld5.png>] [25
 
 ] [26
 
@@ -964,10 +964,10 @@ Package pdftex.def Info: helloworld5.png used on input line 103.
 
 ] [28
 
-]
-[29
+] [29
 
-] [30
+]
+[30
 
 ] [31
 
@@ -981,44 +981,21 @@ Package pdftex.def Info: helloworld5.png used on input line 103.
 
 ] [36
 
-] [37
+]
+<sigslots.png, id=1075, 349.305pt x 242.40562pt>
+File: sigslots.png Graphic file (type png)
+ <use sigslots.png>
+Package pdftex.def Info: sigslots.png used on input line 141.
+(pdftex.def)             Requested size: 284.52756pt x 197.46451pt.
+ [37
 
-] [38
+ <./sigslots.png>] [38
 
 ] [39
 
 ] [40
 
 ] [41
-
-] [42
-
-] [43
-
-]
-[44
-
-] [45
-
-] [46
-
-] [47
-
-] [48
-
-] [49
-
-] [50
-
-] [51
-
-] [52
-
-] [53
-
-] [54
-
-] [55
 
 ]
 \tf@nav=\write6
@@ -1030,31 +1007,25 @@ Package pdftex.def Info: helloworld5.png used on input line 103.
 \tf@snm=\write8
 \openout8 = `slides.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 197.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 197.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 167.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 167.
  (./slides.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 197.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 197.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 167.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 167.
+Package rerunfilecheck Info: File `slides.out' has not changed.
+(rerunfilecheck)             Checksum: 9F15508E9376BA33C594095FD3473A22;451.
 
-
-Package rerunfilecheck Warning: File `slides.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `slides.out':
-(rerunfilecheck)             Before: 0F931B7CB5B87348CB2C7DC5B349F900;488
-(rerunfilecheck)             After:  5B1C62A68EA8D96313F11B9B2A911BEE;539.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 197.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 167.
  ) 
 Here is how much of TeX's memory you used:
- 15884 strings out of 493315
- 292928 string characters out of 6145893
- 373440 words of memory out of 5000000
- 18848 multiletter control sequences out of 15000+600000
+ 15851 strings out of 493315
+ 292650 string characters out of 6145893
+ 372440 words of memory out of 5000000
+ 18844 multiletter control sequences out of 15000+600000
  6113 words of font info for 22 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  49i,17n,60p,416b,596s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1062,10 +1033,10 @@ Here is how much of TeX's memory you used:
 /fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf/fonts/type1/public
 /amsfonts/cm/cmss8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmssi10
 .pfb>
-Output written on slides.pdf (55 pages, 273908 bytes).
+Output written on slides.pdf (41 pages, 267815 bytes).
 PDF statistics:
- 1644 PDF objects out of 1728 (max. 8388607)
- 1546 compressed objects within 16 object streams
- 122 named destinations out of 1000 (max. 500000)
- 199 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1248 PDF objects out of 1440 (max. 8388607)
+ 1167 compressed objects within 12 object streams
+ 92 named destinations out of 1000 (max. 500000)
+ 196 words of extra memory for PDF output out of 10000 (max. 10000000)
 

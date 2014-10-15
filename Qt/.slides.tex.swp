@@ -36,6 +36,15 @@
 \end{itemize}
 \end{frame}
 
+\begin{frame}{Supported Platforms}
+\pause
+\begin{itemize}
+\item *nix platforms
+\item Windows
+\item Android (through Necessitas)
+\end{itemize}
+\end{frame}
+
 \section{Features}
 \begin{frame}{Some features of Qt}
 \begin{itemize}
@@ -53,12 +62,12 @@
 \end{itemize}
 \end{frame}
 
-\begin{frame}{Supported Platforms}
-\pause
+\begin{frame}{Meta Data and MOC}
 \begin{itemize}
-\item *nix platforms
-\item Windows
-\item Android (through Necessitas)
+\item Every \textit{QObject} has a \textit{meta object}
+\item The meta object knows about certain properties related to the class such as \textit{class name}, \textit{inheritance}, \textit{signals and slots} etc
+\item The moc looks for macros like \textit{signals}, \textit{slots} etc
+\item Introspection refers to the class knowing about its own members at runtime (eg: class name, inheritance structure etc)
 \end{itemize}
 \end{frame}
 
@@ -136,75 +145,23 @@ Connection done through the \textit{connect} method
 \\ \textit{connect(src, SIGNAL(sig()), dest, SLOT(doSomething());}
 \end{frame}
 
-\begin{frame}{Who is a mentor?}
-\pause
-Anyone who is passing down his/her experience to new and existing community members
+\section{Lets Code...}
+\begin{frame}{Getting our hands dirty...}
+Looking at some code...
 \end{frame}
 
-
-\begin{frame}{You can become a mentor to}
-\pause
+\section{Some Helpful Links}
+\begin{frame}{Where I can learn some more...}
 \begin{itemize}
-\item include new members into the project \pause
-\item get some help to finish off a project for which you dont have the time \pause
-\item share your knowledge \pause
-\end{itemize}
-\end{frame} 
-
-\section{The Good, The Bad and The Ugly}
-\begin{frame}{The Good}
-\pause
-\begin{itemize}
-\item OBS Guys rock!!! \pause
-\item Engagement with other projects \pause
+\item Qt project site - http://qt-project.org/doc
+\item Advanced Qt Programming - http://www.qtrac.eu/aqpbook.html
 \end{itemize}
 \end{frame}
 
-
-\section{The Bad}
-\begin{frame}{The Bad}
-\pause
-\begin{itemize}
-\item We do not have a list of ideas pouring in all the year \pause
-\end{itemize}
-\end{frame}
-
-\section{The Ugly}
-\begin{frame}{The Ugly}
-\pause
-\begin{itemize}
-\item Too few mentors participating (Maybe we can solve it??) \pause
-\end{itemize}
-\end{frame}
-
-\section{The Future}
-\begin{frame}{The Future}
-\pause
-\begin{itemize}
-\item Google Code-In
-\item Google Summer of Code 2014
-\end{itemize}
-\end{frame}
-
-\begin{frame}{Google Code-In}
-\pause
-\begin{itemize}
-\item Targets school students
-\item Different Goals
-\pause
-\begin{itemize}
-\item Code
-\item Documentation/Training
-\item Outreach
-\item QA
-\item User Interface
-\end{itemize}
-\end{itemize}
-\end{frame}
 
 \section{Questions???}
-\pause
 \begin{frame}{Questions???}
+\pause
 \end{frame}
 
 \end{document} 
